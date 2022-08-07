@@ -1,0 +1,36 @@
+
+        body {
+            background-color: black;
+            color: aliceblue;
+            margin: 50px auto;
+            padding: 15px 50px;
+        }
+
+        .menu {
+                font-weight: bold;
+                border: none;
+                color: lightblue;
+                background-color:black;
+                font-size:larger ;
+                padding-right: 15px;
+                
+             }
+
+             .img, .htmllogo {
+                display: flex;
+                position: absolute;
+            }
+              
+
+           
+
+           
+
+           
+                
+         
+                
+                
+                
+                
+            
